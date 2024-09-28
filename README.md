@@ -1,4 +1,4 @@
-# Chord-Level-Filter *for MuseScore 4.x*
+# Chord-Level-Selector *for MuseScore 4.x*
 A MuseScore 4.x Plugin with UI to select and operate on desired chord levels within a range selection.
 
 ## Disclaimer
